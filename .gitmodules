@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "KSEAapp"]
+	path = KSEAapp
+	url = https://github.com/casecpb/kseaapp
+	shallow = true
+	registered = true
